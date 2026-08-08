@@ -1,0 +1,12 @@
+[project]
+name = "personal-firewall"
+version = "0.1.0"
+description = "Cross-platform personal firewall application scaffold."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [ { name = "Personal Firewall Team" } ]
+
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
